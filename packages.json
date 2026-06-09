@@ -1,0 +1,7 @@
+[
+  {
+    "package": "wickra",
+    "url": "https://github.com/wickra-lib/wickra",
+    "subdir": "bindings/r"
+  }
+]
