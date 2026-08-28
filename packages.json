@@ -8,5 +8,10 @@
     "package": "wickraterminal",
     "url": "https://github.com/wickra-lib/wickra-terminal",
     "subdir": "bindings/r"
+  },
+  {
+    "package": "wickrabacktest",
+    "url": "https://github.com/wickra-lib/wickra-backtest",
+    "subdir": "bindings/r"
   }
 ]
