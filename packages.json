@@ -3,5 +3,10 @@
     "package": "wickra",
     "url": "https://github.com/wickra-lib/wickra",
     "subdir": "bindings/r"
+  },
+  {
+    "package": "wickraterminal",
+    "url": "https://github.com/wickra-lib/wickra-terminal",
+    "subdir": "bindings/r"
   }
 ]
