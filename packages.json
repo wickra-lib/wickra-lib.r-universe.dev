@@ -2,16 +2,19 @@
   {
     "package": "wickra",
     "url": "https://github.com/wickra-lib/wickra",
-    "subdir": "bindings/r"
+    "subdir": "bindings/r",
+    "branch": "*release"
   },
   {
     "package": "wickraterminal",
     "url": "https://github.com/wickra-lib/wickra-terminal",
-    "subdir": "bindings/r"
+    "subdir": "bindings/r",
+    "branch": "*release"
   },
   {
     "package": "wickrabacktest",
     "url": "https://github.com/wickra-lib/wickra-backtest",
-    "subdir": "bindings/r"
+    "subdir": "bindings/r",
+    "branch": "*release"
   }
 ]
