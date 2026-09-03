@@ -16,5 +16,11 @@
     "url": "https://github.com/wickra-lib/wickra-backtest",
     "subdir": "bindings/r",
     "branch": "*release"
+  },
+  {
+    "package": "wickraexchange",
+    "url": "https://github.com/wickra-lib/wickra-exchange",
+    "subdir": "bindings/r",
+    "branch": "*release"
   }
 ]
