@@ -22,5 +22,11 @@
     "url": "https://github.com/wickra-lib/wickra-exchange",
     "subdir": "bindings/r",
     "branch": "*release"
+  },
+  {
+    "package": "wickrascreener",
+    "url": "https://github.com/wickra-lib/wickra-screener",
+    "subdir": "bindings/r",
+    "branch": "*release"
   }
 ]
