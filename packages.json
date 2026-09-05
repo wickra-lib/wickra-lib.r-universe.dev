@@ -28,5 +28,11 @@
     "url": "https://github.com/wickra-lib/wickra-screener",
     "subdir": "bindings/r",
     "branch": "*release"
+  },
+  {
+    "package": "wickrasynth",
+    "url": "https://github.com/wickra-lib/wickra-synth",
+    "subdir": "bindings/r",
+    "branch": "*release"
   }
 ]
