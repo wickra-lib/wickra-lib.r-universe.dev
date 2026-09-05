@@ -40,5 +40,11 @@
     "url": "https://github.com/wickra-lib/wickra-benchmark",
     "subdir": "bindings/r",
     "branch": "*release"
+  },
+  {
+    "package": "wickrastrategyci",
+    "url": "https://github.com/wickra-lib/wickra-strategy-ci",
+    "subdir": "bindings/r",
+    "branch": "*release"
   }
 ]
