@@ -34,5 +34,11 @@
     "url": "https://github.com/wickra-lib/wickra-synth",
     "subdir": "bindings/r",
     "branch": "*release"
+  },
+  {
+    "package": "wickrabenchmark",
+    "url": "https://github.com/wickra-lib/wickra-benchmark",
+    "subdir": "bindings/r",
+    "branch": "*release"
   }
 ]
