@@ -46,5 +46,11 @@
     "url": "https://github.com/wickra-lib/wickra-strategy-ci",
     "subdir": "bindings/r",
     "branch": "*release"
+  },
+  {
+    "package": "wickraxray",
+    "url": "https://github.com/wickra-lib/wickra-xray",
+    "subdir": "bindings/r",
+    "branch": "*release"
   }
 ]
