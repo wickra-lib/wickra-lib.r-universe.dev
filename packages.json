@@ -52,5 +52,41 @@
     "url": "https://github.com/wickra-lib/wickra-xray",
     "subdir": "bindings/r",
     "branch": "*release"
+  },
+  {
+    "package": "wickradarwin",
+    "url": "https://github.com/wickra-lib/wickra-darwin",
+    "subdir": "bindings/r",
+    "branch": "*release"
+  },
+  {
+    "package": "wickrafeaturestore",
+    "url": "https://github.com/wickra-lib/wickra-feature-store",
+    "subdir": "bindings/r",
+    "branch": "*release"
+  },
+  {
+    "package": "wickragenome",
+    "url": "https://github.com/wickra-lib/wickra-genome",
+    "subdir": "bindings/r",
+    "branch": "*release"
+  },
+  {
+    "package": "wickragym",
+    "url": "https://github.com/wickra-lib/wickra-gym",
+    "subdir": "bindings/r",
+    "branch": "*release"
+  },
+  {
+    "package": "wickraimpact",
+    "url": "https://github.com/wickra-lib/wickra-impact",
+    "subdir": "bindings/r",
+    "branch": "*release"
+  },
+  {
+    "package": "wickratimemachine",
+    "url": "https://github.com/wickra-lib/wickra-timemachine",
+    "subdir": "bindings/r",
+    "branch": "*release"
   }
 ]
