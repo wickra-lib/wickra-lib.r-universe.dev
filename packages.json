@@ -88,5 +88,47 @@
     "url": "https://github.com/wickra-lib/wickra-timemachine",
     "subdir": "bindings/r",
     "branch": "*release"
+  },
+  {
+    "package": "wickracompile",
+    "url": "https://github.com/wickra-lib/wickra-compile",
+    "subdir": "bindings/r",
+    "branch": "*release"
+  },
+  {
+    "package": "wickracopilot",
+    "url": "https://github.com/wickra-lib/wickra-copilot",
+    "subdir": "bindings/r",
+    "branch": "*release"
+  },
+  {
+    "package": "wickraproof",
+    "url": "https://github.com/wickra-lib/wickra-proof",
+    "subdir": "bindings/r",
+    "branch": "*release"
+  },
+  {
+    "package": "wickraradar",
+    "url": "https://github.com/wickra-lib/wickra-radar",
+    "subdir": "bindings/r",
+    "branch": "*release"
+  },
+  {
+    "package": "wickrashazam",
+    "url": "https://github.com/wickra-lib/wickra-shazam",
+    "subdir": "bindings/r",
+    "branch": "*release"
+  },
+  {
+    "package": "wickraverify",
+    "url": "https://github.com/wickra-lib/wickra-verify",
+    "subdir": "bindings/r",
+    "branch": "*release"
+  },
+  {
+    "package": "wickrazk",
+    "url": "https://github.com/wickra-lib/wickra-zk",
+    "subdir": "bindings/r",
+    "branch": "*release"
   }
 ]
